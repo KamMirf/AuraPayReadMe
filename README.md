@@ -1,5 +1,7 @@
 # AuraPayReadMe
-Email me for access to this code
+Email me for access to this code:
+kamyar_mirfakhraie@brown.edu
+kamyar.mirf@gmail.com
 
 
 # Kamyar Mirfakhraie
