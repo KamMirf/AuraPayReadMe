@@ -1,10 +1,20 @@
-# AuraPayReadMe
-Email me for access to this code:
-kamyar_mirfakhraie@brown.edu
-kamyar.mirf@gmail.com
+# Readme
 
+## Kamyar Mirfakhraie
+### Email me for access to this code: 
+- kamyar_mirfakhraie@brown.edu 
+- kamyar.mirf@gmail.com
 
-# Kamyar Mirfakhraie
-(Work-in-progress)
-This project aims to demonstrate the viability of using existing bluetooth frameworks (and Apple's CoreBluetooth sample code) for the purposes of digital payments. Apple Pay was used because of its ease of integration. CoreBluetooth was chosen over some newer features of iPhones and IOS versions (e.g. multi-peer connectivity) because of its backwards compatibility and because it would make interacting with Android devices much easier. 
+### This project aims to demonstrate the viability of using existing bluetooth frameworks for the purposes of digital payments (P2P, mobile payments).
 
+## (Work in progress) Screenshots
+### Functionality so far includes:
+- persisted data via MongoDB Realm (also will be used as backend database)
+- Non-bluetooth payment flow in friends tab (adds to history -> swipe left action for accessing receipt view)
+- filtering of friends and best friends via search bar
+- filtering of history in order of most transacted with -> allows for multiple selections of people in history
+- favorited businesses bring up view with closest locations
+- ability to favorite and unfavorite friends as well as remove them entirely (via edit button or via designated remove button in each friend view)
+- and more!
+
+![Screenshot](IMG_7078.PNG)![Screenshot](IMG_7079.PNG)![Screenshot](IMG_7080.PNG)
