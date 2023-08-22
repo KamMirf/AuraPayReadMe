@@ -10,7 +10,8 @@
 ## (Work in progress) Screenshots
 ### Functionality so far includes:
 - persisted data via MongoDB Realm (and device sync capability allows for persistence across devices for individual accounts)
-- Non-bluetooth payment flow in friends tab (adds to history -> swipe left action for accessing receipt view)
+- non-Bluetooth payment flow in friends tab (adds to history -> swipe left action for accessing receipt view)
+- Bluetooth connections between payers and requesters
 - filtering of friends and best friends via search bar
 - filtering of history in order of most transacted with -> allows for multiple selections of people in history
 - favorited businesses bring up view with closest locations
