@@ -17,4 +17,4 @@
 - ability to favorite and unfavorite friends as well as remove them entirely (via edit button or via designated remove button in each friend view)
 - and more
 
-![Screenshot](IMG_7217.PNG)![Screenshot](IMG_7246.PNG)![Screenshot](IMG_7198.PNG)![Screenshot](IMG_7199.PNG)![Screenshot](IMG_7200.PNG)
+![Screenshot](IMG_7246.PNG)![Screenshot](IMG_7255.PNG)![Screenshot](IMG_7257.PNG)![Screenshot](IMG_7258.PNG)![Screenshot](IMG_7259.PNG)
