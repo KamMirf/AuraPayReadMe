@@ -1,9 +1,7 @@
 # Readme
 
 ## Kamyar Mirfakhraie
-### Email me for access to this code: 
-- kamyar_mirfakhraie@brown.edu 
-- kamyar.mirf@gmail.com
+Screenshots of the app.
 
 ### This project aims to demonstrate the viability of using existing bluetooth frameworks for the purposes of digital payments (P2P, mobile payments).
 
